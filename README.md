@@ -1,4 +1,4 @@
-# ChatGPT 資料大權
+# ChatGPT 資料大全
 
 + ## [咒語目錄](./library/README.md)
 
