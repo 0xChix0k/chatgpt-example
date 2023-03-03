@@ -1,5 +1,7 @@
 # 中文咒語範例目錄
 
++ ## [解除思想鋼印](./example/dan.md)
+
 + ## [報告相關](./example/report.md)
 
 + ## [資料整理](./example/data_filing.md)
