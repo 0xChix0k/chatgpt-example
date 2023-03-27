@@ -4,3 +4,5 @@
 
 + ## [其他範例](./other/README.md)
 
++ ## [Midjourney相關](./midjounery/README.md)
+
